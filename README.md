@@ -11,6 +11,6 @@ Extracts some stats from your Linkedin activity:
 ### Setting up the necessary input
 
 Request a data export of your Connections, Messages and Invitations from your Linkedin profile:
-![word-cloud](./output/word_cloud.png)
+![word-cloud](./linkedin-export.png)
 
 And put them in `/input`.
