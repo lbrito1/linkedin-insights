@@ -1,4 +1,4 @@
-## Linkedin Analyzer
+## Linkedin Insights
 
 ![word-cloud](./output/word_cloud.png)
 
